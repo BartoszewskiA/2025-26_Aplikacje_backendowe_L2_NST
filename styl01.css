@@ -1,0 +1,13 @@
+div {
+    border: 2px solid blue;
+    padding: 10px;
+}
+
+
+td {
+    border: 1px solid red;
+    padding: 5px;
+}
+body {
+   background-color: antiquewhite;
+}
